@@ -23,7 +23,6 @@ The objective of this project is to:
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
 
 ---
 
